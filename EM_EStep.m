@@ -1,7 +1,7 @@
 function EStepRes = EM_EStep(MearSet, EMParam, F, G, H, Q, R, matM, matN)
 % Online supplementary materials of the paper titled 
 % "Optimal Joint Estimation and Identification Theorem to Linear Gaussian System with Unknown Inputs"
-% https://github.com/Spratm-Asleaf/LJEIE
+% https://github.com/Spratm-Asleaf/LJEI
 %
 % Author: Shixiong Wang (s.wang@u.nus.edu)
 % Department of Industrial Systems Engineering and Manegement, National University of Singapore
