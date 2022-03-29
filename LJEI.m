@@ -1,6 +1,6 @@
 % Online supplementary materials of the paper titled 
 % "Optimal Joint Estimation and Identification Theorem to Linear Gaussian System with Unknown Inputs"
-% https://github.com/Spratm-Asleaf/LJEIE
+% https://github.com/Spratm-Asleaf/LJEI
 %
 % Author: Shixiong Wang (s.wang@u.nus.edu)
 % Department of Industrial Systems Engineering and Manegement, National University of Singapore
@@ -37,7 +37,7 @@ while NumOfMonteCarlo > 0
 
     %% ---------- Main Processing ---------
     nIterMax = 45;                      % Number of EM iterations
-    L_Win = 5;                          % Window length, typical values are 3, 5 and 7
+    L_Win = 3;                          % Window length, typical values are 3, 5 and 7
 
     % Assign Memories to Key Variables
     X_est = zeros(4, N);                % System state "x", to be estimated
