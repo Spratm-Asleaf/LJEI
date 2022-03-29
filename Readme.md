@@ -21,3 +21,12 @@ From the Department of Industrial Systems Engineering and Management, National U
 ***Inventory***
 
 The file "LJEI.m" is the entry.
+
+
+***Warrant***
+
+Files/codes here are allowed to be edited, distributed, and re-used for any academic/teaching purpose without any warranty. However, you are strongly suggested sharing your codes with publics if you are planning to use codes here. Let's work together to guarantee the reproducibilty of experiments and the verifiability of claims in publications. We believe that this is meaningful to facilitate future research of the signal processing community.
+
+***Disclaimer***
+
+Note that the mentioned reproducibilty and verifiability do not necessarily guarantee the (absolute) correctness of academic claims in a scitific publication. Future research may deny or modify or improve the philosophies, methods, models, and/or claims conveyed in this article. But readers should not try to "find bones from an egg", and codes here are just for their reference, not for their unfriendly criticism. Of course, the authors are open to learn and friendly comments are always welcomed.
