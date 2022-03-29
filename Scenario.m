@@ -1,5 +1,5 @@
 % Author: Shixiong Wang (s.wang@u.nus.edu)
-% Department of industrial systems engineering and manegement, National University of Singapore
+% Department of Industrial Systems Engineering and Manegement, National University of Singapore
 % Date: 20 - Jan - 2019
 
 %% Parameters setting
